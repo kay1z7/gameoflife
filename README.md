@@ -1,6 +1,6 @@
 Random ornament
 
-Game of Life,  is a cellular automaton devised by John Horton Conway in 1970. In my version of Game of Life, I tried to make something that stimulates ornament drawings.
+Game of Life,  is a cellular automaton devised by John Horton Conway in 1970. In my version of Game of Life, I tried to make something that simulates ornament drawings.
 
 ![Brockhaus_and_Efron_Encyclopedic_Dictionary_b43_172-3](https://user-images.githubusercontent.com/103060251/163553238-96f4dd62-d209-4ea3-bd39-fccf53c06aa9.jpg)
 
